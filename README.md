@@ -1,4 +1,9 @@
-### 기현이의 코드 저장소
+## 기현이의 코드 저장소
+
+<div align=center><h1>📚 STACKS</h1></div>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+
+### 안뇽~
 
 <!--
 **augustboyy/augustboyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
