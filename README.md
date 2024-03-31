@@ -1,4 +1,4 @@
-### Hi there 👋
+### 기현이의 코드 저장소
 
 <!--
 **augustboyy/augustboyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
